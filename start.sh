@@ -1,4 +1,4 @@
 #!/bin/bash
-python bot.py
-python-telegram-bot
-python-gitlab
+python laxxyscript.py
+pip install python-telegram-bot
+pip install python-gitlab
